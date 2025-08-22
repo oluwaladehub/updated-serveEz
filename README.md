@@ -99,4 +99,4 @@ In summary, ProjectVerify will use a modern, well-supported tech stack: Next.js 
 supabase.com
 dev.to
 ) while keeping the codebase clean and customizable. The components and services are open-source or widely adopted, ensuring long-term support. With this architecture, diaspora users can confidently request and view verifications on any device, and the team can securely manage projects behind the scenes.#   v e r i f y  
- 
+ # updated-serveEz
